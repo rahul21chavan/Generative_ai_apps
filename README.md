@@ -1,0 +1,1 @@
+ Gen AI (Generative AI) project refers to any initiative or development effort that leverages generative artificial intelligence models to create new content, automate tasks, or enhance decision-making. These projects typically involve training or fine-tuning AI models to generate text, images, code, audio, or other types of data.
